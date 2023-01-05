@@ -1,4 +1,5 @@
-#   Creacion Django
+#   Puzzles
+##   Creacion Django
 Crear el entorno virtual e instalacion de Django
     
     py -m venv venv
@@ -14,7 +15,7 @@ Iniciar servidor
 
     python manage.py runserver
 
-#   Iniciar server
+##   Iniciar server
     venv\Scripts\activate
     cd .\puzzles\
     python manage.py runserver
