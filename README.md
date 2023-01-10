@@ -17,6 +17,7 @@ Iniciar servidor
 
 ##   Iniciar server
 Siempre que se empiece a desarrollar
+
     venv\Scripts\activate
     cd .\puzzles\
     python manage.py runserver
